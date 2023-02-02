@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs.ualberta.cmput402.tictactoe.board.BoardTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2023-02-02T00:34:19" hostname="Jupiters-MacBook-Air.local" time="0.007">
+  <properties/>
+  <testcase name="testPlayMoveInvalidNegColPosition" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.003"/>
+  <testcase name="testPlayMoveInvalidNegRowPosition" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testInit" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testVerticalO" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testPlayMoveExistinSq" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testPlayMoveInvalidColPosition" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testWinVerticalX" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testPlayMoveInvalidRowPosition" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testWinLeftDiagonalO" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testWinLeftDiagonalX" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testWinHorizonalO" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testWinHorizonalX" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.001"/>
+  <testcase name="testWinRightDiagonalO" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testWinRightDiagonalX" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testGetSymbol" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <testcase name="testPlayMoveEmptyBoard" classname="cs.ualberta.cmput402.tictactoe.board.BoardTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
